@@ -4,7 +4,7 @@
   <summary>Spoiler warning</summary>
 ### HW 01
 testing github for OTUS
-<details>
+</details>
 
 ### HW 02
 kubernetes-prepare
