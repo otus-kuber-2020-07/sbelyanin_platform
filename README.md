@@ -1,7 +1,7 @@
 # Sergey Belyanin Platform
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Old HW</summary>
 ### HW 01
 testing github for OTUS
 </details>
