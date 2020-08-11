@@ -1,3 +1,11 @@
 # Sergey Belyanin Platform
-### HW 01 
+
+<details>
+  <summary>Spoiler warning</summary>
+### HW 01
 testing github for OTUS
+<details>
+
+### HW 02
+kubernetes-prepare
+
